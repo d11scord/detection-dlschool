@@ -1,6 +1,6 @@
 Flask==1.0.3
 Bootstrap-Flask==1.4
-torch==1.5.1+cpu
+https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.6.1+cpu
 numpy==1.16.4
 Pillow==6.2.2
